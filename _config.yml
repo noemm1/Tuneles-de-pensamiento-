@@ -1,6 +1,10 @@
 # Site settings
+
 title: Fragmentos filosóficos 
 author: Cristina Noemí González Del Valle
-name: Noemí 
-email: imeonh4ze@gmail.com
+   name: Noemí 
+   email: imeonh4ze@gmail.com
 description: "Un lugar para dar espacio a importantes fragmentos filosóficos" 
+
+# Build settings 
+remote_theme: jekyll/minima
