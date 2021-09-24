@@ -1,5 +1,3 @@
+--- 
+# Bienvenidos al blog
 ---
-layout: home
----
-
-Bienvenidos al blog.
