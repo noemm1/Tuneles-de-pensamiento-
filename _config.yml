@@ -8,3 +8,5 @@ description: "Un lugar para dar espacio a importantes fragmentos filosóficos"
 
 # Build settings 
 remote_theme: jekyll/minima
+
+theme: jekyll-theme-merlot
