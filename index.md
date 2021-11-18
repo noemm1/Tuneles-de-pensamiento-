@@ -11,7 +11,6 @@ Espero sea de tu agrado. :)
 
 (✿◠‿◠)  (✿◠‿◠)  (✿◠‿◠)  
 
-
 `<?xml version=''1.0'' encoding=''UTF-8''?>` `<?xml-model href=''http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng'' schematypens=''http://relaxng.org/ns/structure/1.0''?>` `<TEI xmlns=''http://www.tei-c.org/ns/1.0''>`
 `<teiHeader>` 
  `<fileDesc>`
