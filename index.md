@@ -3,7 +3,7 @@ layout: home
 ---
 **¡Bienvenido! (>‿◠)** <br>
 
-Hola, este es un espacio en el que podrás leer fragmentos por excelencia, haikus. Por definición, un haiku es un poema muy cortos, tiene solo tres versos y normalmente hablan de temas relacionados con la naturaleza o la vida cotidiana que pasa en un lugar y un momento muy concreto. La intención aquí es ver en los seleccionados el uso de figuras retóricas al presentar la idea del poema.
+Hola, este es un espacio en el que podrás leer fragmentos por excelencia, haikus. Por definición, un haiku es un poema muy corto, tiene solo tres versos y normalmente habla de temas relacionados con la naturaleza o la vida cotidiana que pasa en un lugar y un momento muy concreto. La intención aquí es ver en los seleccionados el uso de figuras retóricas al presentar la idea del poema.
 
 Espero sea de tu agrado. :)
 
