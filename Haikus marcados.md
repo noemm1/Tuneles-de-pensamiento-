@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 <teiHeader>
   <titleStmt>
     <title>SELECCIÓN DE HAIKUS</title>
